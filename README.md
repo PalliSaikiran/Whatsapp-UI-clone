@@ -42,4 +42,4 @@ This project was inspired by the WhatsApp application. I would like to thank the
 
 Live project link here 😁👇🏾
 
-https://sovrano28.github.io/Whatsapp-UI-Clone/
+https://pallisaikiran.github.io/Whatsapp-UI-clone/
